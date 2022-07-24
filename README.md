@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Petrprogs
+- 👋 Hi, Hello, my name is Peter. I’m 13 years old
 - 👀 I’m interested in Java Me
 - 🌱 I’m currently learning Pascal WinForms
 - 💞️ I’m looking to collaborate on ...

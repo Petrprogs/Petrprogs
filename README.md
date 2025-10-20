@@ -1,6 +1,5 @@
 # Hello, my name is Peter
-* I'm just 15yo boy, who interested in Python developing.
-* I'm a professional at creating website parsers and reverse engineering of different (both desktop and mobile)
+* 16yo boy, interested in Python.
   
 Feel free to contact me - [p.timoshin2009@yandex.ru](mailto:p.timoshin2009@yandex.ru)
 
